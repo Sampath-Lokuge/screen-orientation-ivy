@@ -1,0 +1,7 @@
+{
+  "name": "screen-orientation",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
